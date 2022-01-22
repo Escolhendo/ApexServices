@@ -1,0 +1,59 @@
+roles:
+ admin:
+  name: '&c&lADMIN'
+  prefix: '&c&lADMIN '
+  permission: 'role.admin'
+  alwaysvisible: true
+ gerente:
+  name: '&b&lGERENTE'
+  prefix: '&b&lGERENTE '
+  permission: 'role.gerente'
+  alwaysvisible: true
+ conselho:
+  name: '&3&lCONSELHO'
+  prefix: '&3&lCONSELHO '
+  permission: 'role.conselho'
+  alwaysvisible: true
+ studio:
+  name: '&9&lSTUDIO'
+  prefix: '&9&lSTUDIO '
+  permission: 'role.studio'
+  alwaysvisible: true
+ moderador:
+  name: '&2&lMODERADOR'
+  prefix: '&2&lMODERADOR '
+  permission: 'role.moderador'
+  alwaysvisible: true
+ ajudante:
+  name: '&e&lAJUDANTE'
+  prefix: '&e&lAJUDANTE '
+  permission: 'role.ajudante'
+  alwaysvisible: true
+ construtor:
+  name: '&a&lCONSTRUTOR'
+  prefix: '&a&lCONSTRUTOR '
+  permission: 'role.construtor'
+  alwaysvisible: true
+ youtuber:
+  name: '&c&lYT'
+  prefix: '&c&lYT '
+  permission: 'role.youtuber'
+  alwaysvisible: true
+ mvpplus:
+  name: '&b&lMVP&6&l+'
+  prefix: '&b&lMVP&6&l+ '
+  permission: 'role.mvpplus'
+ mvp:
+  name: '&6&lMVP'
+  prefix: '&6&lMVP '
+  permission: 'role.mvp'
+ vip:
+  name: '&a&lVIP'
+  prefix: '&a&lVIP '
+  permission: 'role.vip'
+ membro:
+  name: '&7&lJOGADOR'
+  prefix: '&7&lJ'
+  permission: ''
+  # nao enviar avisos ao entrar no lobby
+  broadcast: false
